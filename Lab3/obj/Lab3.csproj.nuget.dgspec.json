@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/igorgubarevic/Documents/OOP/Lab3/Lab3.csproj": {}
+    "/Users/igorgubarevic/Documents/Laboratornaya 1/Lab3/Lab3.csproj": {}
   },
   "projects": {
-    "/Users/igorgubarevic/Documents/OOP/Lab3/Lab3.csproj": {
+    "/Users/igorgubarevic/Documents/Laboratornaya 1/Lab3/Lab3.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/igorgubarevic/Documents/OOP/Lab3/Lab3.csproj",
+        "projectUniqueName": "/Users/igorgubarevic/Documents/Laboratornaya 1/Lab3/Lab3.csproj",
         "projectName": "Lab3",
-        "projectPath": "/Users/igorgubarevic/Documents/OOP/Lab3/Lab3.csproj",
+        "projectPath": "/Users/igorgubarevic/Documents/Laboratornaya 1/Lab3/Lab3.csproj",
         "packagesPath": "/Users/igorgubarevic/.nuget/packages/",
-        "outputPath": "/Users/igorgubarevic/Documents/OOP/Lab3/obj/",
+        "outputPath": "/Users/igorgubarevic/Documents/Laboratornaya 1/Lab3/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/igorgubarevic/.nuget/NuGet/NuGet.Config"
