@@ -1,0 +1,14 @@
+/Users/igorgubarevic/Documents/OOP/Lab1/bin/Debug/net10.0/Lab1
+/Users/igorgubarevic/Documents/OOP/Lab1/bin/Debug/net10.0/Lab1.deps.json
+/Users/igorgubarevic/Documents/OOP/Lab1/bin/Debug/net10.0/Lab1.runtimeconfig.json
+/Users/igorgubarevic/Documents/OOP/Lab1/bin/Debug/net10.0/Lab1.dll
+/Users/igorgubarevic/Documents/OOP/Lab1/bin/Debug/net10.0/Lab1.pdb
+/Users/igorgubarevic/Documents/OOP/Lab1/obj/Debug/net10.0/Lab1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/igorgubarevic/Documents/OOP/Lab1/obj/Debug/net10.0/Lab1.AssemblyInfoInputs.cache
+/Users/igorgubarevic/Documents/OOP/Lab1/obj/Debug/net10.0/Lab1.AssemblyInfo.cs
+/Users/igorgubarevic/Documents/OOP/Lab1/obj/Debug/net10.0/Lab1.csproj.CoreCompileInputs.cache
+/Users/igorgubarevic/Documents/OOP/Lab1/obj/Debug/net10.0/Lab1.dll
+/Users/igorgubarevic/Documents/OOP/Lab1/obj/Debug/net10.0/refint/Lab1.dll
+/Users/igorgubarevic/Documents/OOP/Lab1/obj/Debug/net10.0/Lab1.pdb
+/Users/igorgubarevic/Documents/OOP/Lab1/obj/Debug/net10.0/Lab1.genruntimeconfig.cache
+/Users/igorgubarevic/Documents/OOP/Lab1/obj/Debug/net10.0/ref/Lab1.dll
